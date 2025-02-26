@@ -1,1 +1,2 @@
 swin_t-704ceda3.pth filter=lfs diff=lfs merge=lfs -text
+swin_model_v4.pth filter=lfs diff=lfs merge=lfs -text
